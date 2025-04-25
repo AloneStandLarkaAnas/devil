@@ -27,7 +27,7 @@ banner = """\033[1;91m
 ░▒████▓ ░▒████▒  ▒▀█░  ░██░░██████▒▒██▒ ▒██▒
  ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  ░▓  ░ ▒░▓  ░▒▒ ░ ░▓ ░
  ░ ▒  ▒  ░ ░  ░  ░ ░░   ▒ ░░ ░ ▒  ░░░   ░▒ ░
- ░ ░  ░   Created by: MrHacker-X    ░    ░  
+ ░ ░  ░   Created by: Anas Abdullah    ░    ░  
    ░       ░  ░ version: 0.91.1   ░ ░    ░  
  ░                 ░   """
 
@@ -44,11 +44,6 @@ about = """
 
 \033[1;91m[*] My Social media profile:
 
-\033[1;91m>>> \033[1;97mInstagram: 0hacker_x0
-\033[1;91m>>> \033[1;97mGithub   : MrHacker-X
-\033[1;91m>>> \033[1;97mYouTube  : @Technolex
-\033[1;91m>>> \033[1;97mTelegram : hackwithalex
-\033[1;91m>>> \033[1;97mFacebook : hackerxmr
 
 \033[1;91m>>> \033[1;97mIf you want to copy my code then give me credit.
 """
